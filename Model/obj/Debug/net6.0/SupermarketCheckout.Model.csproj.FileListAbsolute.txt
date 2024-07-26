@@ -1,0 +1,11 @@
+C:\Users\Win10\Desktop\Work Hastee\Flyr-\Flyr\Model\bin\Debug\net6.0\SupermarketCheckout.Model.deps.json
+C:\Users\Win10\Desktop\Work Hastee\Flyr-\Flyr\Model\bin\Debug\net6.0\SupermarketCheckout.Model.dll
+C:\Users\Win10\Desktop\Work Hastee\Flyr-\Flyr\Model\bin\Debug\net6.0\ref\SupermarketCheckout.Model.dll
+C:\Users\Win10\Desktop\Work Hastee\Flyr-\Flyr\Model\bin\Debug\net6.0\SupermarketCheckout.Model.pdb
+C:\Users\Win10\Desktop\Work Hastee\Flyr-\Flyr\Model\obj\Debug\net6.0\SupermarketCheckout.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\Work Hastee\Flyr-\Flyr\Model\obj\Debug\net6.0\SupermarketCheckout.Model.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Work Hastee\Flyr-\Flyr\Model\obj\Debug\net6.0\SupermarketCheckout.Model.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Work Hastee\Flyr-\Flyr\Model\obj\Debug\net6.0\SupermarketCheckout.Model.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Work Hastee\Flyr-\Flyr\Model\obj\Debug\net6.0\SupermarketCheckout.Model.dll
+C:\Users\Win10\Desktop\Work Hastee\Flyr-\Flyr\Model\obj\Debug\net6.0\ref\SupermarketCheckout.Model.dll
+C:\Users\Win10\Desktop\Work Hastee\Flyr-\Flyr\Model\obj\Debug\net6.0\SupermarketCheckout.Model.pdb

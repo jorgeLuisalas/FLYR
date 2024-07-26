@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QT9sQCj1MdzuON/thSdG2J3Gk19Z+6SLskZtjyAC3AQ2dsbFqgwAOiIUgG701dI4WKZbgQK7NFkK3p40UlVHiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Win10\\Desktop\\Work Hastee\\Flyr-\\Flyr\\Model\\SupermarketCheckout.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
